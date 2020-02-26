@@ -1,5 +1,5 @@
 # HackerRank 30 Days Of Code!
-![image](https://pbs.twimg.com/media/CXWo-1YUoAAiwtw.png)
+![image](https://media-exp1.licdn.com/media-proxy/ext?w=800&h=800&hash=8v8D6rEfoSFxE3E5vlH4z3vc5pE%3D&ora=1%2CaFBCTXdkRmpGL2lvQUFBPQ%2CxAVta5g-0R6igRgezFIv5brOq0y_9kIIRJHPB3TiRHf7roLVI2jqedqLKPviuQJAZX9exFFdI7ruFWyOEfz_b9utPrN05Mu8esuxYg4IJB5u0Wof6tI5PUFqpZqh)
 >MySolution to HackerRank's 30 Days Of Code Challenge!
 
 ---
