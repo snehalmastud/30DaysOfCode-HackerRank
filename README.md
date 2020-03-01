@@ -57,11 +57,11 @@
 
 -[Day 25: Running Time and Complexity](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2024/More%20Linked%20Lists/Solution.java)
 
--[Day 26: Nested Logic]
+-[Day 26: Nested Logic](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2026/Nested%20Logic/Solution.java)
 
--[Day 27: Testing]
+-[Day 27: Testing](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2027/Testing/Solution.java)
 
--[Day 28: RegEx, Patterns and Intro to Databases]
+-[Day 28: RegEx, Patterns and Intro to Databases](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2028/RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.java)
 
 -[Day 29: Bitwise AND]
 
