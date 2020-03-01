@@ -63,7 +63,7 @@
 
 -[Day 28: RegEx, Patterns and Intro to Databases](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2028/RegEx%2C%20Patterns%2C%20and%20Intro%20to%20Databases/Solution.java)
 
--[Day 29: Bitwise AND]
+-[Day 29: Bitwise AND](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2029/Bitwise%20AND/Solution.java)
 
 ---
 
