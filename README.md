@@ -57,6 +57,14 @@
 
 -[Day 25: Running Time and Complexity](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%2024/More%20Linked%20Lists/Solution.java)
 
+-[Day 26: Nested Logic]
+
+-[Day 27: Testing]
+
+-[Day 28: RegEx, Patterns and Intro to Databases]
+
+-[Day 29: Bitwise AND]
+
 ---
 
 ## Author Info
