@@ -5,7 +5,6 @@
 ---
 
 ## Table Of Contents
-
 -[Day 0: Hello, World](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%200/Hello%2C%20World/Solution.c)
 
 -[Day 1: Data Types](https://github.com/snehalmastud/30DaysOfCode-HackerRank/blob/master/Day%201/Data%20Types/Solution.c)
